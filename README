@@ -1,0 +1,4 @@
+This projec is a Netlifx Like Video Streaming website on PHP 
+We have used MYSQL database and PHP for the backend side abd HTML, CSS and Javascript for fornt end side
+We have also added OTP authentication and CAPTCHA verification 
+This project was dont as part of our course on Internet and Web Programming
